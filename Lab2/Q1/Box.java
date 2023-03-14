@@ -81,7 +81,7 @@ public class Box {
                         break;
                     }
                 }
-                System.out.print(hasParticle ? "@  " : "-  ");
+                System.out.print(hasParticle ? "*  " : "-  ");
             }
             System.out.println();
         }
